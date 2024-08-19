@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="peach">#FFB997</color>
+    <color name="light_coral">#F67E7D</color>
+    <color name="crazy_magenta">#843B62</color>
+    <color name="russian_violet">#0B032D</color>
+    <color name="chinese_violet">#8E5F80</color>
+    <color name="eggplant">#74546A</color>
+    <color name="old_gold">#E6AF47</color>
+    <color name="vainilla">#E1D89F</color>
+
+
+</resources>
